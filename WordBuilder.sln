@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordBuilder", "WordBuilder\WordBuilder.csproj", "{76FCC47D-E061-4C43-B37A-6F897B8E0AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordBuilderAPI", "WordBuilderAPI\WordBuilderAPI.csproj", "{AE246598-44D4-44B8-BA26-A526163F9A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FCC47D-E061-4C43-B37A-6F897B8E0AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FCC47D-E061-4C43-B37A-6F897B8E0AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FCC47D-E061-4C43-B37A-6F897B8E0AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FCC47D-E061-4C43-B37A-6F897B8E0AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE246598-44D4-44B8-BA26-A526163F9A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE246598-44D4-44B8-BA26-A526163F9A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE246598-44D4-44B8-BA26-A526163F9A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE246598-44D4-44B8-BA26-A526163F9A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDBE914-4482-4701-A29F-D916C20A315B}
+	EndGlobalSection
+EndGlobal
